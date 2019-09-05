@@ -9,6 +9,13 @@
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
+#My First Github Assignment
+
+1. **Alexis Sommerfield**
+
+2. *Radiolab*
+
+3. https://github.com/NYUClasses/hw0-sommea01.git
 
 
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
